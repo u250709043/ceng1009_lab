@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34658a33-32ea-4ce4-bc29-8c27e6e137b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week6/bycharrt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/sum 1 to n include n.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/sum1tonbutwitheasymethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/sumto n.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8/4. exercies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8/grade calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8/third excercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8/turtlenew.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ceng1009_lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ceng1009_lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/bycharrt.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7/bycharrt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/fancysquare.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7/fancysquare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/mySqrty.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7/mySqrty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/positive negative or zero calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7/positive negative or zero calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/star.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7/star.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/sum 1 to n include n.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7/sum 1 to n include n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/sum1tonbutwitheasymethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7/sum1tonbutwitheasymethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/sumto n.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7/sumto n.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +50,25 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.bycharrt.executor": "Run",
     "Python.fancysquare.executor": "Run",
+    "Python.grade calculator.executor": "Run",
     "Python.mySqrty.executor": "Run",
     "Python.positive negative or zero calculator.executor": "Run",
     "Python.star.executor": "Run",
     "Python.sum 1 to n include n.executor": "Run",
     "Python.sum1tonbutwitheasymethod.executor": "Run",
     "Python.sumto n.executor": "Run",
+    "Python.third exercies.executor": "Run",
+    "Python.turtlenew.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/student/ceng1009_lab",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -92,7 +106,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
       </set>
     </attachedChunks>
   </component>

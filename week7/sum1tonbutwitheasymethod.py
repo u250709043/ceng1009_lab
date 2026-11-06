@@ -13,7 +13,7 @@ print(sum(5,10))
 
 
 
-# çok çok küçük bir boşluk şu hatayı görmene sebep oluyor File "/home/student/ceng1009_lab/week6/sum1tonbutwitheasymethod.py", line 8
+# çok çok küçük bir boşluk şu hatayı görmene sebep oluyor File "/home/student/ceng1009_lab/week7/sum1tonbutwitheasymethod.py", line 8
 #     return deger
 #                 ^
 # IndentationError: unindent does not match any outer indentation level
