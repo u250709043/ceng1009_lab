@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34658a33-32ea-4ce4-bc29-8c27e6e137b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week10/1. örnek.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10/2. exercies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10/5..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10/squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10/sum even numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11/exercise 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11/exercise 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11/exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11/exercise7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ceng1009_lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ceng1009_lab.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +43,13 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1. örnek.executor": "Run",
     "Python.2. exercies.executor": "Run",
+    "Python.4.executor": "Run",
     "Python.5..executor": "Run",
     "Python.bycharrt.executor": "Run",
+    "Python.exercise 1.executor": "Run",
+    "Python.exercise 2.executor": "Run",
+    "Python.exercise3.executor": "Run",
+    "Python.exercise7.executor": "Run",
     "Python.fancysquare.executor": "Run",
     "Python.grade calculator.executor": "Run",
     "Python.mySqrty.executor": "Run",
